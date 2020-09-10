@@ -1,0 +1,181 @@
+@charset "ISO-8859-1";
+
+body{
+          margin: 0;
+          font-family: Arial, Helvetica, sans-serif;
+     }
+
+     .div1{
+          display: flex;
+          
+          justify-content: c;
+          padding: 1em;
+     }
+
+
+     .contenedorBienvenido{
+          padding: 1em;
+         font-size: 1.5em;
+          width: 100%;
+         
+          
+     }
+
+    
+
+     .bienvenidoYparrafos span{
+          color: #FF6600;
+          font-size: 1.4em;
+         
+     }
+
+     .consulte{
+          border-top-style: solid;
+          border-width: 0.01em;
+     }
+
+     .consulte p{
+          font-size: 0.8em;
+     }
+
+     .consulte p a{
+          color: #FF6600;
+     }
+
+     .contieneImagenYenlaceClick{
+          
+          
+          display: flex;
+          padding: 1em;
+          background-color: #F1F1F1;
+          font-size: 0.6em;
+          margin-top: 3em;
+          
+     }
+
+     .contieneImagenYenlaceClick div img{
+
+          border-radius: 50%;
+          
+     }
+
+     .aqui a{
+          color: #FF6600;
+     }
+     .generalIngresar{
+          display: flex;
+          width: 100%;
+          justify-content: center;
+     }
+
+     .contenedorIngresar{
+          
+         
+         width: 100%;
+         padding-left: 7em;
+         padding-right: 7em;
+         text-align: center;
+         
+         
+         
+     }
+
+     .botonIngresar{
+
+          margin-top: 1em ;
+
+     }
+
+     
+
+     .texto{
+          margin-top: 1em;
+          margin-right: 12em;
+     }
+
+     .span1{
+          color: #FF6600;
+          font-size: 2em;
+     }
+
+     .span2{
+         
+          font-size: 0.9em;
+          margin-left: 0.8em;
+          
+     }
+
+    
+
+     
+
+     .contenedorCampos{
+         
+          width: 20em;
+          height: 15em;
+          padding-left: 6em;
+          padding-right: 6em;
+          padding-bottom: 1em;
+          border-style: solid;
+          border-width: 0.1em;
+          background-color: #F1F1F1;
+     }
+
+     .contenedorCampos div input{
+          width: 22em;
+          height: 1.3em;
+          
+          
+     }
+
+     .telefono{
+          margin-left: -6em;
+          font-size: 1.2em;
+     }
+
+     .contraseña{
+          margin-left: -9.5em;
+          font-size: 1.2em;
+     }
+
+     .div2{
+          display: flex;
+          justify-content: center;
+          
+     }
+
+     .contenedorImagenes{
+          display: flex;
+          
+     }
+
+
+     .contenedorImagenes div{
+
+          
+          padding: 2em;
+          
+
+     }
+
+     .contenedorImagenes div img{
+
+          border-style: solid;
+          border-width: 0.01em;
+
+          
+     }
+
+   
+
+     .maki{
+          color: white;
+          background-color: #373737;
+          margin-top: -0.8em;
+          font-size: 0.3em;
+          position: relative;
+          
+          
+     }
+
+     
