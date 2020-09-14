@@ -12,7 +12,7 @@
 				<filtering>true</filtering>
 			</resource>
 		</resources>
-		<testResources>
+		<testResourcesss>
 			<testResource>
 				<directory>src/test/resources</directory>
 				<filtering>true</filtering>
